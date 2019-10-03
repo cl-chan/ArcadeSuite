@@ -2,16 +2,16 @@
 
 pacman.py
 
-![image](https://imgur.com/YDKymBv)
+![image](https://i.imgur.com/YDKymBv.png)
 
 snake.py
 
-https://imgur.com/0jzuGro
+![image](https://i.imgur.com/0jzuGro.png)
 
 ball.py
 
-https://imgur.com/qariEgb
+![image](https://i.imgur.com/qariEgb.png)
 
 katamari.py
 
-https://imgur.com/3KH3aTT
+![image](https://i.imgur.com/3KH3aTT.png)
